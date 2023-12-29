@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81954300.css",
+    "main.js": "/static/js/main.c87462f9.js",
+    "static/js/787.40c4502c.chunk.js": "/static/js/787.40c4502c.chunk.js",
+    "static/media/2021-1.jpg": "/static/media/2021-1.3c098a49d2c784bfb28b.jpg",
+    "static/media/2021-2.jpg": "/static/media/2021-2.147a17569887e3ac04c8.jpg",
+    "static/media/2021-3.jpg": "/static/media/2021-3.347e523586ee0e0090cd.jpg",
+    "static/media/2020-1.jpg": "/static/media/2020-1.ac34c3ddb14454afcbcd.jpg",
+    "static/media/2022-1.jpg": "/static/media/2022-1.bc107a97112657c76242.jpg",
+    "static/media/RIDIBatang.otf": "/static/media/RIDIBatang.80d8670ccc62e22c4612.otf",
+    "static/media/2022-2.jpg": "/static/media/2022-2.9ec9eda94710ad74f8d8.jpg",
+    "static/media/PinyonScript-Regular.ttf": "/static/media/PinyonScript-Regular.8d81e07e5bc82ec02bf7.ttf",
+    "static/media/rose.png": "/static/media/rose.6ffd57b7c3221810da01.png",
+    "static/media/card.png": "/static/media/card.2d3710a8ae1da369fb80.png",
+    "static/media/party.jpg": "/static/media/party.de38fcd3ee0b864043e6.jpg",
+    "static/media/tree.png": "/static/media/tree.ed9a441597299de9ef0a.png",
+    "static/media/aAutoSignature.otf": "/static/media/aAutoSignature.867d8ceed8e68f41a59e.otf",
+    "index.html": "/index.html",
+    "main.81954300.css.map": "/static/css/main.81954300.css.map",
+    "main.c87462f9.js.map": "/static/js/main.c87462f9.js.map",
+    "787.40c4502c.chunk.js.map": "/static/js/787.40c4502c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81954300.css",
+    "static/js/main.c87462f9.js"
+  ]
+}
